@@ -1,0 +1,9 @@
+{
+    "php.suggest.basic": false,
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "prettier.braceStyle": "psr-2",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "php.validate.run": "onType"
+}
